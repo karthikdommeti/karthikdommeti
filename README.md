@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm KARTHIK</h1>
 <h3 align="center">I'm a final year B.Tech student in Computer Science and Engineering, passionate about Full-Stack Web Development, and Machine Learning. I love building scalable applications, and exploring AI-powered solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikdommeti&label=Profile%20views&color=0e75b6&style=flat" alt="karthikdommeti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikdommeti" alt="karthikdommeti" /></a> </p>
-
 - 🔭 I’m currently working on [HomeBite project](https://homebite.netlify.app/)
 
 - 🌱 I’m currently learning **scikit-learn,Node.js,FastAPI**
