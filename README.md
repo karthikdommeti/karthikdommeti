@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARTHIK</h1>
 <h3 align="center">I'm a final year B.Tech student in Computer Science and Engineering, passionate about Full-Stack Web Development, and Machine Learning. I love building scalable applications, and exploring AI-powered solutions.</h3>
 
-- 🔭 I’m currently working on [HomeBite project](https://homebite.netlify.app/](https://github.com/karthikdommeti/LOYALTY))
+- 🔭 I’m currently working on [Loyalty_Now project](https://github.com/karthikdommeti/LOYALTY)
 
 - 🌱 I’m currently learning **scikit-learn,Node.js,FastAPI**
 
