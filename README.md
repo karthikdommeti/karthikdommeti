@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Loyalty_Now project](https://github.com/karthikdommeti/LOYALTY)
 
-- 🌱 I’m currently learning **scikit-learn,Node.js,FastAPI**
+- 🌱 I’m currently learning **Springboot,React**
 
 - 👨‍💻 All of my projects are available at [https://karthikdommeti-portfolio.netlify.app/](https://karthikdommeti-portfolio.netlify.app/)
 
